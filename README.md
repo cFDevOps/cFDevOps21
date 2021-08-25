@@ -4,7 +4,7 @@
 
 With the slowdown of Moore's law as we know it, the Cloud is resorting to heterogeneous, accelerated computing to satisfy the ever-increasing demand for performance and power efficiency. In just a few years, FPGAs have emerged as compute accelerators next to GPUs and are part of the standard offerings from many Cloud vendors. However, the development environment, deployment procedures, security measures, and monitoring tools are different for each platform and the portability of the FPGA kernel designs remains limited.
 
-In this workshop, leading platform providers, designers of development environments, and developers are going to present the state-of-the-art for Cloud FPGA platforms and explore opportunities and directions for future improvements from the developer's point of view. Instead of focusing on the performance and optimization of a specific application, the goal of this workshop is to highlight the challenges, which a Cloud application developer faces when designing, implementing, deploying, scaling and debugging Cloud services on Cloud FPGA platforms. A focus area for this years edition are end-to-end toolchains, compilation and debugging tools for distributed FPGA platforms. 
+In this workshop, leading platform providers, designers of development environments, and developers are going to present the state-of-the-art for Cloud FPGA platforms and explore opportunities and directions for future improvements from the developer's point of view. Instead of focusing on the performance and optimization of a specific application, the goal of this workshop is to highlight the challenges, which a Cloud application developer faces when designing, implementing, deploying, scaling and debugging Cloud services on Cloud FPGA platforms. A focus area for this years edition are end-to-end tool chains, compilation and debugging tools for distributed FPGA platforms. 
 
 ## Program
 
@@ -39,7 +39,7 @@ More details about FPL 2021 can be found [here]([FPL 2021 - Welcome - cfaed](htt
 
 by ***Tiziano De Matteis, ETH Zürich, Scalable Parallel Computing Laboratory***
 
-**Abstract:** In this talk, we will share our experiences in developing a distributed communication library for multi-FPGA systems (Streaming Messages Interface -- ) and distributed applications that build on top of it.We will present the main challenges that we had to face in developing and emulating such applications, together with our adopted solutions. Finally, we will briefly discuss what we believe are necessary tools to further enable the development/debugging of distributed FPGA programming.
+**Abstract:** In this talk, we will share our experiences in developing a distributed communication library for multi-FPGA systems (Streaming Messages Interface) and distributed applications that build on top of it. We will present the main challenges that we had to face in developing and emulating such applications, together with our adopted solutions. Finally, we will briefly discuss what we believe are necessary tools to further enable the development/debugging of distributed FPGA programming.
 
 #### And, what about debugging for multi-FPGA systems?
 
@@ -67,7 +67,7 @@ by ***Andrew Caldwell, AWS Redshift***
 
 **Abstract:** t.b.a.
 
-#### ## Organizers
+## Organizers
 
 #### Chris Kachris, inaccel, Greece
 
@@ -79,7 +79,7 @@ Christoph Hagleitner leads the cloudFPGA project at the IBM Research Europe Lab 
 
 #### Dionysios Diamantopoulos, IBM Research Europe, Switzerland
 
-Dionysios Diamantopoulos is a Post-Doc Researcher in the  Cloud & AI Systems Research department of IBM Research  Europe. Dionysios holds a PhD  from ECE/Technical University of Athens (2015), and a D.Eng. from CEID/University of Patras (2009). Being affiliated with the ICCS, he was enrolled in several research projects from EU (FP7, H2020) and European Space Agency.  Dionysios joined IBM ZRL (2017) as a researcher in Transprecision Computing. His research is disseminated in one book chapter and more than 30 publications in international conferences and journals. He is the co-inventor of  three filed patents and one pending (USPTO). His research interests lie in the system-level specialization that lay the foundation of heterogeneous-accelerated systems for the hybrid cloud era.  He is a member of HiPEAC, IEEE, IEEE CAS and Technical Chamber of Greece. 
+Dionysios Diamantopoulos is a Research Scientist in the Cloud & AI Systems Research department of IBM Research Europe. Dionysios holds a D.Eng. from CEID/University of Patras (2009) and a PhD from ECE/Technical University of Athens (2015). His research is disseminated in one book chapter and more than 30 publications in international conferences and journals. He is the co-inventor of four filed patents and one pending (USPTO). His research interests lie in the system-level specialization of heterogeneous platforms for the hybrid cloud era. He is a member of HiPEAC, IEEE, OpenPOWER and Technical Chamber of Greece.
 
 #### Burkhard Ringlein, IBM Research Europe, Switzerland
 
