@@ -27,9 +27,9 @@ The workshop will take place on  **Monday, August 30, 14:30h - 18:30h CEST**. Th
 
 ## Registration
 
-Registration is mandatory via the FPL registration [here (Whova)]([FPL 2021 - Registration - cfaed](https://cfaed.tu-dresden.de/fpl2021/registration)). The registration is free of charge.
+Registration is mandatory via the FPL registration [here (Whova)](https://cfaed.tu-dresden.de/fpl2021/registration). The registration is free of charge.
 
-More details about FPL 2021 can be found [here]([FPL 2021 - Welcome - cfaed](https://cfaed.tu-dresden.de/fpl2021/welcome-to-fpl2021)).
+More details about FPL 2021 can be found [here](https://cfaed.tu-dresden.de/fpl2021/welcome-to-fpl2021).
 
 ## Talks
 
