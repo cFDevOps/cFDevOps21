@@ -59,7 +59,7 @@ by ***Christian Pilato, Assistant Professor, Dipartimento di Elettronica, Polite
 
 by ***Chris Kachris, CEO of InAccel***
 
-**Abstract:** t.b.a.
+**Abstract:** How can users deploy and scale their FPGA-based application instantly on the cloud and in data centers? How can we eliminate the complexity of FPGA and allow seamless deployment as easy as the CPUs? In this talk we will show how users can deploy and scale their FPGA applications on a Kubernetes cluster as easy as if it was typical processors. We will show how users can seamlessly invoke the accelerated functions on a cluster of FPGAs and how multiple users can share the available FPGA resources easier than ever. Finally we will show how users can perform DevOps on FPGAs on the cloud with an integrated framework.
 
 #### AQUA (Advanced Query Accelerator) for Amazon Redshift
 
