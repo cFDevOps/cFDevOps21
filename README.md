@@ -26,7 +26,7 @@ Once registered, you can find the access details [here](https://whova.com/portal
 |                 | **Session 2**                                                                                        | **Operation of large Cloud FPGA deployments**            |
 | 16:40           | Single-line deployment of Cloud FPGAs                                                                | Chris Kachris, InAccel                                   |
 | 17:10           | AQUA (Advanced Query Accelerator) for Amazon Redshift                                                | Andrew Caldwell, AWS Redshift                            |
-| 17:40           | XACC-ETHZ cluster                                                                                    | He Zhenhao                                               |
+| 17:40           | XACC-ETHZ cluster                                                                                    | He Zhenhao, ETH Zürich                                   |
 | 18:10           | Q & A                                                                                                | *Everyone*                                               |
 | 18:30           | Closing                                                                                              | *The Organizers*                                         |
 
