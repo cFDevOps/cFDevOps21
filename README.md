@@ -10,18 +10,23 @@ In this workshop, leading platform providers, designers of development environme
 
 The workshop will take place on  **Monday, August 30, 14:30h - 18:30h CEST**. The workshop will be held online (Zoom Webinar/Whova platform).
 
+Once registered, you can find the access details [here](https://whova.com/portal/webapp/fpl_202108/Agenda/1837281/).
+
+
+
 | **Time (CEST)** | **Title**                                                                                            | **Presenters**                                           |
 |:---------------:|:---------------------------------------------------------------------------------------------------- |:-------------------------------------------------------- |
 | 14:30           | Opening                                                                                              | *The Organizers*                                         |
 |                 | **Session 1**                                                                                        | **Development and Debugging of Cloud FPGA applications** |
 | 14:40           | On the development of distributed applications with Intel FPGA SDK for OpenCL                        | Tiziano De Matteis, ETH Zürich                           |
-| 15:15           | And, what about debugging for multi-FPGA systems?                                                    | Paul Chow, University of Toronto                         |
-| 15:50           | climbing EVEREST: dEsign enVironmEnt foR Extreme-Scale big data analyTics on heterogeneous platforms | Christian Pilato, Politecnico di Milano                  |
-| 16:25           | Q & A                                                                                                | *Everyone*                                               |
-| 16:40           | **Break**                                                                                            |                                                          |
+| 15:10           | And, what about debugging for multi-FPGA systems?                                                    | Paul Chow, University of Toronto                         |
+| 15:40           | climbing EVEREST: dEsign enVironmEnt foR Extreme-Scale big data analyTics on heterogeneous platforms | Christian Pilato, Politecnico di Milano                  |
+| 16:10           | Q & A                                                                                                | *Everyone*                                               |
+| 16:25           | **Break**                                                                                            |                                                          |
 |                 | **Session 2**                                                                                        | **Operation of large Cloud FPGA deployments**            |
-| 17:00           | Single-line deployment of Cloud FPGAs                                                                | Chris Kachris, InAccel                                   |
-| 17:35           | AQUA (Advanced Query Accelerator) for Amazon Redshift                                                | Andrew Caldwell, AWS Redshift                            |
+| 16:40           | Single-line deployment of Cloud FPGAs                                                                | Chris Kachris, InAccel                                   |
+| 17:10           | AQUA (Advanced Query Accelerator) for Amazon Redshift                                                | Andrew Caldwell, AWS Redshift                            |
+| 17:40           | XACC-ETHZ cluster                                                                                    | He Zhenhao                                               |
 | 18:10           | Q & A                                                                                                | *Everyone*                                               |
 | 18:30           | Closing                                                                                              | *The Organizers*                                         |
 
@@ -60,6 +65,16 @@ by ***Christian Pilato, Assistant Professor, Dipartimento di Elettronica, Polite
 by ***Chris Kachris, CEO of InAccel***
 
 **Abstract:** How can users deploy and scale their FPGA-based application instantly on the cloud and in data centers? How can we eliminate the complexity of FPGA and allow seamless deployment as easy as the CPUs? In this talk we will show how users can deploy and scale their FPGA applications on a Kubernetes cluster as easy as if it was typical processors. We will show how users can seamlessly invoke the accelerated functions on a cluster of FPGAs and how multiple users can share the available FPGA resources easier than ever. Finally we will show how users can perform DevOps on FPGAs on the cloud with an integrated framework.
+
+
+
+#### XACC-ETHZ cluster
+
+by ***He Zhenhao, ETH Zürich, Institute for Computing Platforms - Systems Group***
+
+**Abstract:** In this talk I will present a short overview of the XACC-ETHZ cluster, its operation, and briefly describe some of the work being done on it. The cluster has been in operation since the beginning of 2020 and currently hosts more than 100 researchers from 25 different institutions and almost as many countries. In the talk I will present the hardware, the available software and set up, as well as the mode of operation.
+
+
 
 #### AQUA (Advanced Query Accelerator) for Amazon Redshift
 
