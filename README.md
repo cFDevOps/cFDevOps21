@@ -23,7 +23,7 @@ Once registered, you can find the access details [here](https://whova.com/portal
 | 15:40           | climbing EVEREST: dEsign enVironmEnt foR Extreme-Scale big data analyTics on heterogeneous platforms | Christian Pilato, Politecnico di Milano                  |
 | 16:10           | Q & A                                                                                                | *Everyone*                                               |
 | 16:25           | **Break**                                                                                            |                                                          |
-|                 | **Session 2**                                                                                        | **Operation of large Cloud FPGA deployments**            |
+|                 | **Session 2**                                                                                        | **Operation of Cloud FPGA deployments**            |
 | 16:40           | Single-line deployment of Cloud FPGAs                                                                | Chris Kachris, InAccel                                   |
 | 17:10           | AQUA (Advanced Query Accelerator) for Amazon Redshift                                                | Andrew Caldwell, AWS Redshift                            |
 | 17:40           | XACC-ETHZ cluster                                                                                    | He Zhenhao, ETH Zürich                                   |
@@ -56,9 +56,10 @@ by ***Paul Chow, Professor Computer Engineering & Electronics, University of Tor
 
 by ***Christian Pilato, Assistant Professor, Dipartimento di Elettronica, Politecnico di Milano***
 
-**Abstract:** t.b.a.
+**Abstract:** Modern big data applications demand heterogeneous platforms to achieve high performance and energy efficiency. FPGA acceleration brings significant advantages but requires complex hardware skills to obtain efficient designs, especially regarding data movements. IBM cloudFPGA is a paradigmatic example: It offers an infrastructure to scale FPGA acceleration to multiple nodes, but the optimization of the user’s code is left to the designer.
+This talk will introduce EVEREST, a project that complements cloudFPGA solutions to tackle such challenges. The EVEREST approach aims at providing a design environment that operates at both design and run times. At design time, it offers a data-driven programming environment that combines domain-specific extensions, compiler optimizations, and high-level synthesis to create efficient FPGA accelerators along with complex but flexible memory architectures. It also features a runtime environment to virtualize and manage the available hardware resources and dynamically tune the application execution accordingly.
 
-### Session 2: Operation of large Cloud FPGA deployments
+### Session 2: Operation of Cloud FPGA deployments
 
 #### Single-line deployment of Cloud FPGAs
 
