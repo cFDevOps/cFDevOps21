@@ -7,7 +7,7 @@ With the slowdown of Moore's law as we know it, the Cloud is resorting to hetero
 In this workshop, leading platform providers, designers of development environments, and developers are going to present the state-of-the-art for Cloud FPGA platforms and explore opportunities and directions for future improvements from the developer's point of view. Instead of focusing on the performance and optimization of a specific application, the goal of this workshop is to highlight the challenges, which a Cloud application developer faces when designing, implementing, deploying, scaling and debugging Cloud services on Cloud FPGA platforms. A focus area for this years edition are end-to-end tool chains, compilation and debugging tools for distributed FPGA platforms. 
 
 ## Update 2021-09-30
-We thank all speakers for their excellent presentations and all participants for joining and their interesting questions. We felt we had a very insightful workshop with a lively debate. The slides and recordings of most talks are linked below.
+We thank all speakers for their excellent presentations and all participants for joining and their interesting questions. We felt we had a very insightful workshop with a lively debate and we also were happy to see the convergence of different approaches during our discussions. The slides and recordings of most talks are linked below.
 
 We hope to see all of you next year at FPL again personally, where we might organize another cFDevOps workshop. Stay safe!
 
@@ -49,7 +49,7 @@ More details about FPL 2021 can be found [here](https://cfaed.tu-dresden.de/fpl2
 
 by ***Tiziano De Matteis, ETH Zürich, Scalable Parallel Computing Laboratory***
 
-**[Slides](./slides/cFDevOps21_Matteis.pdf)\|[Recording](https://ibm.box.com/s/tdk9czsy6yxfmd4l7pyufdbcyd264idn)**
+[Slides](./slides/cFDevOps21_DeMatteis.pdf) \| [Recording](https://ibm.box.com/s/tdk9czsy6yxfmd4l7pyufdbcyd264idn)
 
 
 **Abstract:** In this talk, we will share our experiences in developing a distributed communication library for multi-FPGA systems (Streaming Messages Interface) and distributed applications that build on top of it. We will present the main challenges that we had to face in developing and emulating such applications, together with our adopted solutions. Finally, we will briefly discuss what we believe are necessary tools to further enable the development/debugging of distributed FPGA programming.
@@ -58,11 +58,15 @@ by ***Tiziano De Matteis, ETH Zürich, Scalable Parallel Computing Laboratory***
 
 by ***Paul Chow, Professor Computer Engineering & Electronics, University of Toronto***
 
+[Slides](./slides/cFDevOps21_Chow.pdf) \| [Recording](https://ibm.box.com/s/45z3n58q5vhwckm2xyhfne3frkrnu1cf)
+
 **Abstract:** In reality, very few beyond Microsoft have built significant multi-FPGA systems.  This means that very few have even thought about how to debug a single application running on multiple FPGAs because the need has not arisen.  Most FPGA designers are familiar with tools such as Intel's SignalTap and the Xilinx ILAs, but they have been mostly debugging one FPGA at a time.  Would you really want to use these tools on an application running on 16 network-connected FPGAs in the cloud?  Can such tools even work in that environment?  In this talk I will present work done at the University of Toronto where we have considered this problem and developed some early-stage techniques to help find bugs and do performance analysis of a multi-FPGA application.
 
 #### climbing EVEREST: dEsign enVironmEnt foR Extreme-Scale big data analyTics on heterogeneous platforms
 
 by ***Christian Pilato, Assistant Professor, Dipartimento di Elettronica, Politecnico di Milano*** and ***Michele Paolino, Virtual Open System***
+
+[Recording](https://ibm.box.com/s/u94w93jq5vptq0bdo64d9ya9eiax4akz)
 
 **Abstract:** Modern big data applications demand heterogeneous platforms to achieve high performance and energy efficiency. FPGA acceleration brings significant advantages but requires complex hardware skills to obtain efficient designs, especially regarding data movements. IBM cloudFPGA is a paradigmatic example: It offers an infrastructure to scale FPGA acceleration to multiple nodes, but the optimization of the user’s code is left to the designer.
 This talk will introduce EVEREST, a project that complements cloudFPGA solutions to tackle such challenges. The EVEREST approach aims at providing a design environment that operates at both design and run times. At design time, it offers a data-driven programming environment that combines domain-specific extensions, compiler optimizations, and high-level synthesis to create efficient FPGA accelerators along with complex but flexible memory architectures. It also features a runtime environment to virtualize and manage the available hardware resources and dynamically tune the application execution accordingly.
@@ -73,6 +77,8 @@ This talk will introduce EVEREST, a project that complements cloudFPGA solutions
 
 by ***Chris Kachris, CEO of InAccel***
 
+[Slides](./slides/cFDevOps21_Kachris.pdf) \| [Recording](https://ibm.box.com/s/p4qdbpshylvicqxahni7ot9vt81wyzeo)
+
 **Abstract:** How can users deploy and scale their FPGA-based application instantly on the cloud and in data centers? How can we eliminate the complexity of FPGA and allow seamless deployment as easy as the CPUs? In this talk we will show how users can deploy and scale their FPGA applications on a Kubernetes cluster as easy as if it was typical processors. We will show how users can seamlessly invoke the accelerated functions on a cluster of FPGAs and how multiple users can share the available FPGA resources easier than ever. Finally we will show how users can perform DevOps on FPGAs on the cloud with an integrated framework.
 
 
@@ -80,6 +86,8 @@ by ***Chris Kachris, CEO of InAccel***
 #### XACC-ETHZ cluster
 
 by ***He Zhenhao, ETH Zürich, Institute for Computing Platforms - Systems Group***
+
+[Recording](https://ibm.box.com/s/h5v7lc05j7rlonisziqzq9veco6amwfs)
 
 **Abstract:** In this talk I will present a short overview of the XACC-ETHZ cluster, its operation, and briefly describe some of the work being done on it. The cluster has been in operation since the beginning of 2020 and currently hosts more than 100 researchers from 25 different institutions and almost as many countries. In the talk I will present the hardware, the available software and set up, as well as the mode of operation.
 
