@@ -6,6 +6,11 @@ With the slowdown of Moore's law as we know it, the Cloud is resorting to hetero
 
 In this workshop, leading platform providers, designers of development environments, and developers are going to present the state-of-the-art for Cloud FPGA platforms and explore opportunities and directions for future improvements from the developer's point of view. Instead of focusing on the performance and optimization of a specific application, the goal of this workshop is to highlight the challenges, which a Cloud application developer faces when designing, implementing, deploying, scaling and debugging Cloud services on Cloud FPGA platforms. A focus area for this years edition are end-to-end tool chains, compilation and debugging tools for distributed FPGA platforms. 
 
+## Update 2020-09-30
+We thank all speakers for their excellent presentations and all participants for joining and their interesting questions. We felt we had a very insightful workshop with a lively debate. The slides and recordings of most talks are linked below.
+
+We hope to see all of you next year at FPL again personally, where we might organize another cFDevOps workshop. Stay safe!
+
 ## Program
 
 The workshop will take place on  **Monday, August 30, 14:30h - 18:30h CEST**. The workshop will be held online (Zoom Webinar/Whova platform).
@@ -32,7 +37,7 @@ Once registered, you can find the access details [here](https://whova.com/portal
 
 ## Registration
 
-Registration is mandatory via the FPL registration [here (Whova)](https://cfaed.tu-dresden.de/fpl2021/registration). The registration is free of charge.
+The registration is closed.
 
 More details about FPL 2021 can be found [here](https://cfaed.tu-dresden.de/fpl2021/welcome-to-fpl2021).
 
@@ -43,6 +48,9 @@ More details about FPL 2021 can be found [here](https://cfaed.tu-dresden.de/fpl2
 #### On the development of distributed applications with Intel FPGA SDK for OpenCL
 
 by ***Tiziano De Matteis, ETH Zürich, Scalable Parallel Computing Laboratory***
+
+**[Slides](./slides/cFDevOps21_Matteis.pdf)|[Recording](https://ibm.box.com/s/tdk9czsy6yxfmd4l7pyufdbcyd264idn)**
+
 
 **Abstract:** In this talk, we will share our experiences in developing a distributed communication library for multi-FPGA systems (Streaming Messages Interface) and distributed applications that build on top of it. We will present the main challenges that we had to face in developing and emulating such applications, together with our adopted solutions. Finally, we will briefly discuss what we believe are necessary tools to further enable the development/debugging of distributed FPGA programming.
 
