@@ -66,7 +66,7 @@ by ***Paul Chow, Professor Computer Engineering & Electronics, University of Tor
 
 by ***Christian Pilato, Assistant Professor, Dipartimento di Elettronica, Politecnico di Milano*** and ***Michele Paolino, Virtual Open System***
 
-[Recording](https://ibm.box.com/s/u94w93jq5vptq0bdo64d9ya9eiax4akz)
+[Slides](./slides/cFDevOps21_PilatoPaolino.pdf) \| [Recording](https://ibm.box.com/s/u94w93jq5vptq0bdo64d9ya9eiax4akz)
 
 **Abstract:** Modern big data applications demand heterogeneous platforms to achieve high performance and energy efficiency. FPGA acceleration brings significant advantages but requires complex hardware skills to obtain efficient designs, especially regarding data movements. IBM cloudFPGA is a paradigmatic example: It offers an infrastructure to scale FPGA acceleration to multiple nodes, but the optimization of the user’s code is left to the designer.
 This talk will introduce EVEREST, a project that complements cloudFPGA solutions to tackle such challenges. The EVEREST approach aims at providing a design environment that operates at both design and run times. At design time, it offers a data-driven programming environment that combines domain-specific extensions, compiler optimizations, and high-level synthesis to create efficient FPGA accelerators along with complex but flexible memory architectures. It also features a runtime environment to virtualize and manage the available hardware resources and dynamically tune the application execution accordingly.
@@ -87,7 +87,7 @@ by ***Chris Kachris, CEO of InAccel***
 
 by ***He Zhenhao, ETH Zürich, Institute for Computing Platforms - Systems Group***
 
-[Recording](https://ibm.box.com/s/h5v7lc05j7rlonisziqzq9veco6amwfs)
+[Slides](./slides/cFDevOps21_He.pdf) \| [Recording](https://ibm.box.com/s/h5v7lc05j7rlonisziqzq9veco6amwfs)
 
 **Abstract:** In this talk I will present a short overview of the XACC-ETHZ cluster, its operation, and briefly describe some of the work being done on it. The cluster has been in operation since the beginning of 2020 and currently hosts more than 100 researchers from 25 different institutions and almost as many countries. In the talk I will present the hardware, the available software and set up, as well as the mode of operation.
 
